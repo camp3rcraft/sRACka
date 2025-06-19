@@ -1,5 +1,5 @@
 # shRACk v1.0nutelko
-**s**uper **RAC** **k**ettles **a**boyudno
+**s**uper **h**renoviy **RAC** **k**ettles
 
 shRACk is a fork of [cRACk](https://github.com/pansangg/cRACk) (v.1.99.2) with its own features. This is TUI client for [RAC](https://github.com/The-Stratosphere-Solutions/RAC-Hub) written on Python
 
