@@ -1,7 +1,7 @@
-# sRACka v1.0nutelko
+# shRACk v1.0nutelko
 **s**uper **RAC** **k**ettles **a**boyudno
 
-sRACka is a fork of [cRACk](https://github.com/pansangg/cRACk) (v.1.99.2) with its own features. This is TUI client for [RAC](https://github.com/The-Stratosphere-Solutions/RAC-Hub) written on Python
+shRACk is a fork of [cRACk](https://github.com/pansangg/cRACk) (v.1.99.2) with its own features. This is TUI client for [RAC](https://github.com/The-Stratosphere-Solutions/RAC-Hub) written on Python
 
 ## quick start
 | Supported devices  | y or n |
@@ -11,16 +11,16 @@ sRACka is a fork of [cRACk](https://github.com/pansangg/cRACk) (v.1.99.2) with i
 | Android  | 🟢  |
 | iOS      | 🔴  |
 ### for Windows
-use executable from [latest release](https://github.com/camp3rcraft/sRACka/releases/latest),\
+use executable from [latest release](https://github.com/camp3rcraft/shRACk/releases/latest),\
 or run `main.py` with python interpreter.
 
 ### for Linux
-use binary from [latest release](https://github.com/camp3rcraft/sRACka/releases/latest),\
+use binary from [latest release](https://github.com/camp3rcraft/shRACk/releases/latest),\
 or run `main.py` with python interpreter.
 > note: can be more unstable than Windows version
 
 ### for Android
-download and run `sRACka-v1.0nutelko.apk`
+download and run `shRACk-v1.0nutelko.apk`
 
 ## license
 this project is licensed under GPL-3.0 license.
